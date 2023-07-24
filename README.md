@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjsah&layout=compact&theme=material-palenight)
 
-1[Metrics](github-metrics.svg)
+![Metrics](github-metrics.svg)
