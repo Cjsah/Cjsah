@@ -36,3 +36,5 @@ jobs:
           repositories_forks: yes
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_repositories_visibility: public
+          
